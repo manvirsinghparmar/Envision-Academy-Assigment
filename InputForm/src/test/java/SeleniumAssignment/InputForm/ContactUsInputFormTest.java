@@ -31,7 +31,7 @@ public class ContactUsInputFormTest extends TestBase {
 	@Test
 	void fillFormTest() {
 		
-		logger.info("............Test Execution Started...............");
+		logger.info("............Test Execution Started Now...............");
 
 		contactus.stateSelection();
 
